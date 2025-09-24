@@ -1,0 +1,6 @@
+streamlit
+nltk
+transliterate
+torchtext
+torch
+scikit-learn
